@@ -2,6 +2,8 @@
 
 A pinned vLLM fork serves the RedHatAI NVFP4 checkpoint with speculation disabled. Hugging Face returned a regional HTTP 403 for the upstream DFlash draft. The model API binds to `127.0.0.1:18896`.
 
+[How it works](docs/how-it-works.md)
+
 [Benchmarks](#benchmarks) · [Runtime](#runtime) · [Quick start](#quick-start) · [Raw results](results/benchmark-2026-11-21.json)
 
 ## Benchmarks
